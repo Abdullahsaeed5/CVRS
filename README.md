@@ -12,6 +12,9 @@ https://github.com/Abdullahsaeed5/CVRS/blob/main/Problem%20Solving%20with%20Pyth
 Project persentation
 https://github.com/Abdullahsaeed5/CVRS/blob/main/Problem%20Solving%20with%20Python.pptx
 
+Report 
+https://github.com/Abdullahsaeed5/CVRS/blob/main/report.pdf
+
 the conclusion
 The heart disease is still the higher death rate and we need to increase capacity of heart center and awareness of heart disease risk.
 The male gender and smoking show the most group have heart disease this main to increase the awareness among this category
