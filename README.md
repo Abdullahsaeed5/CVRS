@@ -9,6 +9,9 @@ https://github.com/Abdullahsaeed5/CVRS/blob/main/%D9%90Abdullah_Saeed_MVP.ipynb
 this PDF description
 https://github.com/Abdullahsaeed5/CVRS/blob/main/Problem%20Solving%20with%20Python%20abdullah%20saeed%20alqhtanni.pdf
 
+Project persentation
+https://github.com/Abdullahsaeed5/CVRS/blob/main/Problem%20Solving%20with%20Python.pptx
+
 the conclusion
 The male gender and smoking show the most group have heart disease this main to increase the awareness among this category
 high sodium intake show effect on kidney and blood pressure that cause heart disease also need-aware the community about sodium and salt risk
